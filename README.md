@@ -13,10 +13,9 @@ This is a pixel-perfect responsive landing page created as per Task 1 wireframe.
 - CSS3 (Flexbox, Grid, Media Queries)
 - Google Fonts
 
-### 3. Code Snippet - Key Implementation
-
-**HTML Header:**
-```html
+3. Code- Key Implementation
+HTML Header:
+html
 <header>
   <div class="logo">yuva intern</div>
   <nav>
